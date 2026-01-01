@@ -1,4 +1,4 @@
-# 🛡️ Secure SQLite Export — Hybrid Encrypted Dump Protection
+# 🛡️ SQuiL — Hybrid Encrypted Dump Protection
 
 > 💡 **Защита экспорта баз данных от утечек через дампирование**
 
